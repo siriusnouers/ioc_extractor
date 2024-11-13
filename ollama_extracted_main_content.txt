@@ -1,0 +1,64 @@
+以下是易于阅读的版本：
+
+```html
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>无法访问此网站</title>
+    <style jstcache="0">
+        #errorTitle {
+            font-size: 1.25rem;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            text-align: center;
+        }
+        audio {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 id="errorTitle">无法访问此网站</h1>
+        <p>网址为 <strong jscontent="https://www.trellix.com/blogs/research/new-stealer-uses-invalid-cert-to-compromise-systems/">https://www.trellix.com/blogs/research/new-stealer-uses-invalid-cert-to-compromise-systems/</strong> 的网页可能暂时无法连接，或者它已永久性地移动到了新网址。</p>
+        <audio controls>
+            <source src="https://www.trellix.com/sounds/error.mp3" type="audio/mp3">
+            您的浏览器不支持 audio 元素。
+        </audio>
+    </div>
+
+<script jstcache="0">
+var loadTimeDataRaw = {
+    "details": "详情",
+    "errorCode": "ERR_HTTP2_PROTOCOL_ERROR",
+    "fontfamily": "'Segoe UI',Arial,'Microsoft Yahei',sans-serif",
+    "fontfamilyMd": "'Segoe UI',Arial,'Microsoft Yahei',sans-serif",
+    "fontsize": "75%",
+    "heading": {
+        "hostName": "www.trellix.com",
+        "msg": "无法访问此网站"
+    },
+    "hideDetails": "隐藏详细信息",
+    "iconClass": "icon-generic",
+    "language": "zh",
+    "suggestionsDetails": [],
+    "suggestionsSummaryList": [],
+    "summary": {
+        "failedUrl": "https://www.trellix.com/blogs/research/new-stealer-uses-invalid-cert-to-compromise-systems/",
+        "hostName": "www.trellix.com",
+        "msg": "网址为 <strong jscontent=\"failedUrl\">https://www.trellix.com/blogs/research/new-stealer-uses-invalid-cert-to-compromise-systems/</strong> 的网页可能暂时无法连接，或者它已永久性地移动到了新网址。"
+    },
+    "textdirection": "ltr",
+    "title": "www.trellix.com"
+};
+</script>
+</body>
+</html>
+```
+
+这个版本将原始代码拆分成了多个段落，并添加了注释以便更好地理解代码结构和功能。
